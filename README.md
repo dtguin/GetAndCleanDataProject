@@ -25,10 +25,14 @@ run_analysis.R - R Script file that combines the test and training data sets, in
          where the directory C:/R_Prog/Project was created in Step 1)
 
 3. Download into your working directory:
-	test.csv
-	train.csv
-	run_analysis.R
 
-	CodeBook.md (Optional but nice to have handy as a reference)
-	README.md   (Optional but nice to have handy as a reference)
+##	test.csv
+
+##	train.csv
+
+##	run_analysis.R
+
+##	CodeBook.md (Optional but nice to have handy as a reference)
+
+##	README.md   (Optional but nice to have handy as a reference)
 	
