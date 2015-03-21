@@ -26,13 +26,13 @@ run_analysis.R - R Script file that combines the test and training data sets, in
 
 3. Download into your working directory:
 
-##	test.csv
++test.csv
 
-##	train.csv
++train.csv
 
-##	run_analysis.R
++run_analysis.R
 
-##	CodeBook.md (Optional but nice to have handy as a reference)
++CodeBook.md (Optional but nice to have handy as a reference)
 
-##	README.md   (Optional but nice to have handy as a reference)
++README.md   (Optional but nice to have handy as a reference)
 	
