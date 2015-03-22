@@ -45,9 +45,10 @@ From R (or R Studio) type the following commands:
     * source("run_analysis.R")
 	* clean_tidy_df <- run_analysis()
 	
-	This will create the data frame clean_tidy_df and create the file CleanTidyData.txt in your working directory.
+	This will create the data frame clean_tidy_df and create the file CleanTidyData.txt
+	in your working directory.
 	
-#How the run_analysis.R SWcript Works
+#How the run_analysis.R Script Works
 The script essential performs the steps required in order to meet the requirements for this project.
 
 Initially the X_test and X_train data sets are merged to create an internal data frame (x_df).
